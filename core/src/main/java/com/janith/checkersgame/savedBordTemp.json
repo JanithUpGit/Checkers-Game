@@ -1,0 +1,602 @@
+[
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": true
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": true
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": true
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ]
+]

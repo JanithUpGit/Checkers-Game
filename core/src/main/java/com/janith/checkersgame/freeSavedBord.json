@@ -1,0 +1,602 @@
+[
+  [
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "Computer",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    }
+  ],
+  [
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    },
+    {
+      "team": "none",
+      "superPrivilege": false
+    },
+    {
+      "team": "janith",
+      "superPrivilege": false
+    }
+  ]
+]

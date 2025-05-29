@@ -1,0 +1,13 @@
+player_switch.png
+black_piece.png
+computer_switch.png
+you_lose.png
+white_piece.png
+black_super_piece.png
+click_switch.png
+META-INF/MANIFEST.MF
+bord.png
+libgdx.png
+white_super_piece.png
+you_win.png
+images.png
